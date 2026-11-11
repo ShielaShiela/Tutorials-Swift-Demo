@@ -6,6 +6,48 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>7A617187-21DC-470F-9B92-008ED3A8B415</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7A617187-21DC-470F-9B92-008ED3A8B415.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) SwiftDemo</string>
+			<key>timeStartedRecording</key>
+			<real>816121715.97475004</real>
+			<key>timeStoppedRecording</key>
+			<real>816121721.88652503</real>
+			<key>title</key>
+			<string>Build (Automatic) SwiftDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>7A617187-21DC-470F-9B92-008ED3A8B415</string>
+		</dict>
 		<key>89724BBE-E039-44B8-8904-147A39057474</key>
 		<dict>
 			<key>className</key>

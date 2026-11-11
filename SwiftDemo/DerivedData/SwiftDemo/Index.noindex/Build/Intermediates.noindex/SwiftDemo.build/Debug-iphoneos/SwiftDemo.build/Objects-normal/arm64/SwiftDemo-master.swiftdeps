@@ -1,0 +1,10 @@
+version: "Apple Swift version 6.0.2 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)"
+options: "10f5d1ef1f2e294dc0fc0db9ff70eaaf6ee2f107114f4caf6634b70e86213d76"
+build_start_time: [1794428601, 996867000]
+build_end_time: [1794428604, 510025000]
+inputs:
+  ? "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Index.noindex/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphoneos/SwiftDemo.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1794428545, 102476222]
+  "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/SwiftDemo/ContentView.swift": [1794428536, 784812560]
+  "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/SwiftDemo/Item.swift": [1794428536, 786352847]
+  "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/SwiftDemo/SwiftDemoApp.swift": [1794428536, 781855190]
