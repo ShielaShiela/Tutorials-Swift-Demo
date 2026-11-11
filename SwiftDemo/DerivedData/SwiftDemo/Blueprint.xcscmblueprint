@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3CE7E9B7444F4FD82D5B037D1D8AB3AE801C8B11",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3CE7E9B7444F4FD82D5B037D1D8AB3AE801C8B11" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2F9D1E1D-A73E-4EE9-B62A-67FC1D3575EB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3CE7E9B7444F4FD82D5B037D1D8AB3AE801C8B11" : "Tutorials-Swift-Demo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftDemo\/SwiftDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ShielaShiela\/Tutorials-Swift-Demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3CE7E9B7444F4FD82D5B037D1D8AB3AE801C8B11"
+    }
+  ]
+}

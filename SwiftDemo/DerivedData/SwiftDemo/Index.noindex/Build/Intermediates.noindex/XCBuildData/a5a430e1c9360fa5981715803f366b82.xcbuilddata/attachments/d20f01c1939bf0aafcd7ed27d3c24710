@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Index.noindex/Build/Intermediates.noindex/SwiftDemo.build/Debug-maccatalyst/SwiftDemoTests.build/Objects-normal/arm64/SwiftDemoTests-master.d",
+    "diagnostics" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Index.noindex/Build/Intermediates.noindex/SwiftDemo.build/Debug-maccatalyst/SwiftDemoTests.build/Objects-normal/arm64/SwiftDemoTests-master.dia",
+    "emit-module-dependencies" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Index.noindex/Build/Intermediates.noindex/SwiftDemo.build/Debug-maccatalyst/SwiftDemoTests.build/Objects-normal/arm64/SwiftDemoTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Index.noindex/Build/Intermediates.noindex/SwiftDemo.build/Debug-maccatalyst/SwiftDemoTests.build/Objects-normal/arm64/SwiftDemoTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Index.noindex/Build/Intermediates.noindex/SwiftDemo.build/Debug-maccatalyst/SwiftDemoTests.build/Objects-normal/arm64/SwiftDemoTests-master.swiftdeps"
+  },
+  "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/SwiftDemoTests/SwiftDemoTests.swift" : {
+
+  }
+}
