@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/SwiftDemo-master.dia",
+    "emit-module-dependencies" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/SwiftDemo-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/SwiftDemo-master-emit-module.dia",
+    "swift-dependencies" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/SwiftDemo-master.swiftdeps"
+  },
+  "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/SwiftDemo/ContentView.swift" : {
+    "const-values" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/SwiftDemo/Item.swift" : {
+    "const-values" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/Item.swiftconstvalues",
+    "dependencies" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/Item.d",
+    "diagnostics" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/Item.dia",
+    "index-unit-output-path" : "/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/Item.o",
+    "swift-dependencies" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/Item.swiftdeps",
+    "swiftmodule" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/Item~partial.swiftmodule"
+  },
+  "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/SwiftDemo/SwiftDemoApp.swift" : {
+    "const-values" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/SwiftDemoApp.swiftconstvalues",
+    "dependencies" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/SwiftDemoApp.d",
+    "diagnostics" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/SwiftDemoApp.dia",
+    "index-unit-output-path" : "/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/SwiftDemoApp.o",
+    "llvm-bc" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/SwiftDemoApp.bc",
+    "object" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/SwiftDemoApp.o",
+    "swift-dependencies" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/SwiftDemoApp.swiftdeps",
+    "swiftmodule" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphonesimulator/SwiftDemo.build/Objects-normal/arm64/SwiftDemoApp~partial.swiftmodule"
+  }
+}

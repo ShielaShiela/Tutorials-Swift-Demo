@@ -4,82 +4,10 @@
     "Localizable": [
       {
         "comment": "",
-        "key": "Oops no cat",
+        "key": "Players",
         "location": {
-          "startingColumn": 58,
-          "startingLine": 102
-        }
-      },
-      {
-        "comment": "",
-        "key": "Editing",
-        "location": {
-          "startingColumn": 58,
-          "startingLine": 109
-        }
-      },
-      {
-        "comment": "",
-        "key": "Delete All",
-        "location": {
-          "startingColumn": 62,
-          "startingLine": 97
-        }
-      },
-      {
-        "comment": "",
-        "key": "New Task",
-        "location": {
-          "startingColumn": 68,
-          "startingLine": 43
-        }
-      },
-      {
-        "comment": "",
-        "key": "Add",
-        "location": {
-          "startingColumn": 65,
-          "startingLine": 46
-        }
-      },
-      {
-        "comment": "",
-        "key": "OK",
-        "location": {
-          "startingColumn": 62,
-          "startingLine": 103
-        }
-      },
-      {
-        "comment": "",
-        "key": "Please type something before adding.",
-        "location": {
-          "startingColumn": 60,
-          "startingLine": 107
-        }
-      },
-      {
-        "comment": "",
-        "key": "Task Title",
-        "location": {
-          "startingColumn": 65,
-          "startingLine": 111
-        }
-      },
-      {
-        "comment": "",
-        "key": "Save",
-        "location": {
-          "startingColumn": 62,
-          "startingLine": 113
-        }
-      },
-      {
-        "comment": "",
-        "key": "Cancel",
-        "location": {
-          "startingColumn": 62,
-          "startingLine": 121
+          "startingColumn": 70,
+          "startingLine": 49
         }
       }
     ]

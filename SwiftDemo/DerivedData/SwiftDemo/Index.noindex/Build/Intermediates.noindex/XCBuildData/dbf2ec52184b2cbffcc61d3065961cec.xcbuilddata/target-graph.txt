@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'SwiftDemo' in project 'SwiftDemo' (no dependencies)
+Target 'SwiftDemo' in project 'SwiftDemo' (no dependencies)

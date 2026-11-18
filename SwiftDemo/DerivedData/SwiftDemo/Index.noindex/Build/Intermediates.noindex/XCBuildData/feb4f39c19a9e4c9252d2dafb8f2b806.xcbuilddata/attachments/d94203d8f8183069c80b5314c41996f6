@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Index.noindex/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphoneos/SwiftDemo.build/Objects-normal/arm64/SwiftDemo-master.d",
+    "diagnostics" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Index.noindex/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphoneos/SwiftDemo.build/Objects-normal/arm64/SwiftDemo-master.dia",
+    "emit-module-dependencies" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Index.noindex/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphoneos/SwiftDemo.build/Objects-normal/arm64/SwiftDemo-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Index.noindex/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphoneos/SwiftDemo.build/Objects-normal/arm64/SwiftDemo-master-emit-module.dia",
+    "swift-dependencies" : "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Index.noindex/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphoneos/SwiftDemo.build/Objects-normal/arm64/SwiftDemo-master.swiftdeps"
+  },
+  "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/DerivedData/SwiftDemo/Index.noindex/Build/Intermediates.noindex/SwiftDemo.build/Debug-iphoneos/SwiftDemo.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/SwiftDemo/ContentView.swift" : {
+
+  },
+  "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/SwiftDemo/Item.swift" : {
+
+  },
+  "/Users/shielacabahug/Downloads/Tutorials-Swift-Demo/SwiftDemo/SwiftDemo/SwiftDemoApp.swift" : {
+
+  }
+}
