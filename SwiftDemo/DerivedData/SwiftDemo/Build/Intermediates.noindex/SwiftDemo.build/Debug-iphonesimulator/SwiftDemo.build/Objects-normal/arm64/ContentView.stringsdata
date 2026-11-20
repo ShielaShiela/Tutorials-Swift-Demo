@@ -7,7 +7,55 @@
         "key": "Players",
         "location": {
           "startingColumn": 70,
-          "startingLine": 49
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Player",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 67,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "Emoji",
+        "location": {
+          "startingColumn": 67,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 105
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 108
         }
       }
     ]

@@ -24,12 +24,13 @@ struct Player: Identifiable {
 
 struct ContentView: View {
     
-    let players = [
+    @State private var players = [
         Player(name: "Shiela", emoji: "🐱", summary: "dynamic player from Philippines"),
         Player(name: "Hazel", emoji: "🐻", summary: "lovely player from UK"),
         Player(name: "Aloha", emoji: "🐷", summary: "great player from Taiwan.")
     ]
     
+    @State private var showAddPlayerSheet = false
     var body: some View {
        
         NavigationStack {
@@ -41,6 +42,17 @@ struct ContentView: View {
                 }
             }
             .navigationTitle("Players")
+            .toolbar {
+                Button("Add", systemImage: "plus"){
+                    showAddPlayerSheet = true
+                }
+            }
+            .sheet(isPresented: $showAddPlayerSheet) {
+                AddPlayerView { newPlayer in
+                    players.append(newPlayer)
+                }
+
+            }
         }
     }
     
@@ -67,6 +79,37 @@ struct PlayerDetailView: View {
         
     }
 }
+
+struct AddPlayerView: View {
+    @Environment(\.dismiss) private var dismiss
+    @State private var name = ""
+    @State private var emoji = ""
+    
+    var onSave: (Player) -> Void
+    
+    var body: some View {
+        NavigationStack {
+            Form {
+                TextField("Name", text: $name)
+                TextField("Emoji", text: $emoji)
+            }
+            .navigationTitle("New Player")
+            .toolbar {
+                ToolbarItem(placement: .cancellationAction) {
+                    Button("Cancel") { dismiss() }
+                }
+                ToolbarItem(placement: .confirmationAction){
+                    Button("Save") {
+                        onSave(Player(name: name, emoji: emoji, summary: "I'm cool"))
+                        dismiss()
+                    }
+                    .disabled((name.isEmpty))
+                }
+            }
+        }
+    }
+}
+
 #Preview {
     ContentView()
 }
